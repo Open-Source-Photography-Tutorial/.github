@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+欢迎来到开源摄影教程,本开源组织致力于编写开源摄影教程让技术得以传播而不是被少数学阀所垄断,整个教程将采用开源的 MIT 予以公开让更多的爱好者得以记录想记录下的瞬间
